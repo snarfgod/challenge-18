@@ -22,9 +22,12 @@ Streamlit is required to run the app.
 
 ```import hashlib```
 
-## Example
+## Examples
 
-![alt text](https://github.com/snarfgod/challenge-18/)
+![alt text](https://github.com/snarfgod/challenge-18/blob/main/Screenshot%20(55).png)
+
+
+![alt text](https://github.com/snarfgod/challenge-18/blob/main/Screenshot%20(56).png)
 
 
 ## Contributors
